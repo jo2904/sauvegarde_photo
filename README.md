@@ -1,6 +1,7 @@
 Ce logiciel permet de sauvegarder vos images en prenant en compte les évolutions de vos fichiers.
 
 Procédure:
+
 -> Pour une premiere utilisation:
       > Cliquer sur Démarrer
       > Une premiere fenetre s'ouvre, choisisser le fichier à sauvegarder puis valider
@@ -16,6 +17,7 @@ Procédure:
       Ne toucher à rien le procéssus s'éxécute tout seul, il ne faut pas s'étonner si plusieurs fentres s'ouvrent et se ferment
       
 Exemple:
+
   Vous souhaitez sauvegarder le fichier 'Mes Images' sur vtre clé USB. 
   Avant de commencer, allez sur votre clé USB et créez un dossier 'COPIE IMAGE'
   Cliquez sur 'Démarrer', sélectionnez le dossier 'Mes Images', validez.
@@ -26,6 +28,7 @@ Exemple:
   Cliquez sur 'Démarrer', sélectionnez le dossier 'Mes Images', validez.
   Dans la deuxieme fentre, selectionnez le dossier 'COPIE IMAGE' puis validez.
   La sauvegarde s'effectue toute seule
+
 
 Programme dévellopé par JdG.
 
