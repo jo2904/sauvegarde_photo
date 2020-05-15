@@ -7,6 +7,7 @@ Procédure:
       > Une deuxieme fentre s'ouvre, choissier le fichier de sauvegarde. 
       /!\ il ne faut pas selectionner le dossier racine mais un dossier créé à cette effet.
       Ne toucher à rien le procéssus s'éxécute tout seul, il ne faut pas s'étonner si plusieurs fentres s'ouvrent et se ferment
+
 -> Pour une sauvegarde d'un dossier déjà sauvegardé:
       > Cliquer sur Démarrer
       > Une premiere fenetre s'ouvre, choisisser le fichier à sauvegarder puis valider 
